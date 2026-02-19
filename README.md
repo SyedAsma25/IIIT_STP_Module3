@@ -254,20 +254,5 @@ This repository is part of the IIIT Summer Training Program and is created for e
 
 ---
 
-## 🙋 Support & Questions
-
-- 📧 For questions about the content, please open an issue
-- 💬 For discussions, use GitHub Discussions
-- 📌 Check existing issues before posting duplicates
-
----
-
-## 🎉 Happy Learning!
-
-Start with Lab 1 and progress through each module at your own pace. The best way to learn machine learning is by doing, so don't hesitate to experiment with the code and try modifications!
-
-<div align="center">
-
-**Made with ❤️ for IIIT STP Module 3 Learners**
 
 </div>
